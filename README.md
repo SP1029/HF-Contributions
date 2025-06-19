@@ -18,5 +18,5 @@ These are my code contributions that have been submitted to various Hugging Face
 
 * **[Issue in accessing Samsum dataset](https://github.com/huggingface/datasets/issues/7573)** - `dataset`
     * **Description:** Resolved a Hugging Face datasets issue where the `Samsung/samsum` dataset was unavailable on the Hub, causing download failures. 
-    * **Status:** Resolved
+    * **Status:** Closed
 
