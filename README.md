@@ -24,5 +24,5 @@ These are my code contributions that have been submitted to various Hugging Face
     * **Status:** In-progress
 
 * **[Query in related to __builtins__](https://github.com/huggingface/datasets/issues/7636)** - **dataset**
-    * **Description:** Under different circumstances, `__builtins__` attribute is either a dictionary or a module.
+    * **Description:** Under different circumstances, `__builtins__` attribute is either a dictionary or a module causing errors if considered to be of the wrong format in the given situation.
     * **Status:** Answered
