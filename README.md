@@ -23,3 +23,6 @@ These are my code contributions that have been submitted to various Hugging Face
     * **Description:** Analyzing source of failure and possible mitigation. 
     * **Status:** In-progress
 
+* **[Query in related to __builtins__](https://github.com/huggingface/datasets/issues/7636)** - **dataset**
+    * **Description:** Under different circumstances, `__builtins__` attribute is either a dictionary or a module.
+    * **Status:** Answered
